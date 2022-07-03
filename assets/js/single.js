@@ -81,5 +81,3 @@ var displayWarning = function(repo) {
 };
 
 getRepoName();
-
-getRepoIssues(repoName);
